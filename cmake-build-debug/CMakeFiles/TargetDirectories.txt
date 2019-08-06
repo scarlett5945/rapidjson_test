@@ -1,0 +1,3 @@
+/Users/stt/workspace/CLionProjects/test_rapidjson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/stt/workspace/CLionProjects/test_rapidjson/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stt/workspace/CLionProjects/test_rapidjson/cmake-build-debug/CMakeFiles/test_rapidjson.dir
